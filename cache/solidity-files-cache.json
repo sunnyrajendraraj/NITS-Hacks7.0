@@ -35,6 +35,41 @@
       "artifacts": [
         "Upload"
       ]
+    },
+    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\NITS-Hacks7.0\\NITS-Hacks7.0\\contracts\\Upload.sol": {
+      "lastModificationDate": 1729872476669,
+      "contentHash": "20ea769a3b21de6ddabd3f9444bedafd",
+      "sourceName": "contracts/Upload.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Upload"
+      ]
     }
   }
 }

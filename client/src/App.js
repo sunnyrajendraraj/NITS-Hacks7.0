@@ -79,8 +79,8 @@ function App() {
       <button className="anu anu4">
           Other
       </button> */}
-        <h1 style={{ color: "yellow" }}>A Blockchain-Based </h1> 
-        <h1 style={{ color: "pink" }}>Secure Watermarking System</h1>
+        <h1 style={{ color: "yellow" }}>A Decentralized File Sharing System </h1> 
+        <h1 style={{ color: "pink" }}>Eliminating Third Party Interference</h1>
         <div class="bg"></div>
         <div class="bg bg2"></div>
         <div class="bg bg3"></div>
